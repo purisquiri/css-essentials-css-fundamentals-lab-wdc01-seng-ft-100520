@@ -12,8 +12,8 @@ nav a {
   background-color: grey;
 }
 img {
-  display: inline;
-  float: center;
+  display: block;
+  float: none;
 }
 
 
